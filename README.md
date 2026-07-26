@@ -18,34 +18,22 @@ This project analyses airline booking and flight data to uncover trends in passe
 ## Technologies Used
 
 - **Python:** It is used for data cleaning, preprocessing, and data analysis.
-
 - **Pandas & NumPy:** Performed data manipulation, transformation, and numerical computations.
-
 - **Matplotlib & Seaborn:** Created visualizations to identify trends and patterns.
-
 - **SQL (SQLite):** Queried the database to answer business questions and extract insights.
-
 - **Jupyter Notebook:** Developed and documented the complete data analysis workflow.
 ## Key Insights
 
 - Discovered trends in airline bookings and passenger demand.
-
 - Compared flight performance across different airlines.
-
 - Analysed fare patterns to identify pricing trends.
-
 - Identified factors affecting delays and flight operations.
-
 - Generated insights to support better business decisions.
   ## Recommendations
 
 - Reduce delays by improving flight scheduling.
-
 - Adjust ticket prices based on customer demand.
-
 - Add more flights during busy travel seasons.
-
 - Improve services on routes with lower performance.
-
 - Regularly analyse airline data to make better business decisions.
  
