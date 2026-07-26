@@ -19,3 +19,16 @@ This project analyses airline booking and flight data to uncover trends in passe
 - **Business Question Analysis:** Answered key business questions using data-driven insights.
 
 - **Actionable Insights:** Derived meaningful conclusions to support business decision-making.
+## Technologies Used
+
+- **Python:** It is used for data cleaning, preprocessing, and data analysis.
+
+- **Pandas & NumPy:** Performed data manipulation, transformation, and numerical computations.
+
+- **Matplotlib & Seaborn:** Created visualizations to identify trends and patterns.
+
+- **SQL (SQLite):** Queried the database to answer business questions and extract insights.
+
+- **Jupyter Notebook:** Developed and documented the complete data analysis workflow.
+
+- **Git & GitHub:** Managed version control and hosted the project repository.
