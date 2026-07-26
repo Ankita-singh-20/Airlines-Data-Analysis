@@ -12,11 +12,8 @@ This project analyses airline booking and flight data to uncover trends in passe
 ## Key Features
 
 - **Data Cleaning & Preparation:** Processed and prepared airline data for accurate analysis.
-
 - **Exploratory Data Analysis (EDA):** Examined airline data to identify trends and patterns.
-
 - **Business Question Analysis:** Answered key business questions using data-driven insights.
-
 - **Actionable Insights:** Derived meaningful conclusions to support business decision-making.
 ## Technologies Used
 
